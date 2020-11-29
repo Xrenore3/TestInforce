@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TestInforce/static/css/main.e51cfa4d.chunk.css",
+    "main.js": "/TestInforce/static/js/main.bb20ce13.chunk.js",
+    "main.js.map": "/TestInforce/static/js/main.bb20ce13.chunk.js.map",
+    "runtime-main.js": "/TestInforce/static/js/runtime-main.08ff7b59.js",
+    "runtime-main.js.map": "/TestInforce/static/js/runtime-main.08ff7b59.js.map",
+    "static/js/2.6b447b45.chunk.js": "/TestInforce/static/js/2.6b447b45.chunk.js",
+    "static/js/2.6b447b45.chunk.js.map": "/TestInforce/static/js/2.6b447b45.chunk.js.map",
+    "index.html": "/TestInforce/index.html",
+    "precache-manifest.0a9ebc6e24a26a6797151637d8c2d824.js": "/TestInforce/precache-manifest.0a9ebc6e24a26a6797151637d8c2d824.js",
+    "service-worker.js": "/TestInforce/service-worker.js",
+    "static/css/main.e51cfa4d.chunk.css.map": "/TestInforce/static/css/main.e51cfa4d.chunk.css.map",
+    "static/js/2.6b447b45.chunk.js.LICENSE.txt": "/TestInforce/static/js/2.6b447b45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ff7b59.js",
+    "static/js/2.6b447b45.chunk.js",
+    "static/css/main.e51cfa4d.chunk.css",
+    "static/js/main.bb20ce13.chunk.js"
+  ]
+}

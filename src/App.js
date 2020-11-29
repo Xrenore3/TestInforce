@@ -54,7 +54,7 @@ const App = () => {
       const sortedList = [...list, newItem].sort((a, b) => a.title.localeCompare(b.title)).sort(
         (a, b) => a.itemPriority - b.itemPriority
       );
-      
+
       setList(sortedList);
       showAlert(true, "item added to the list", "success");
       setName("");
@@ -65,8 +65,7 @@ const App = () => {
   const getCurrentTime = () => {
     const date = new Date();
     const curTime =
-      date.getFullYear() +
-      "/" +
+      
       (date.getMonth() + 1) +
       "/" +
       date.getDate() +

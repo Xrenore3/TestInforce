@@ -148,6 +148,7 @@ p {
   max-width: 35rem;
   margin-top: 8rem;
 }
+
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
@@ -183,7 +184,7 @@ Grocery List
   border-radius: 0.25rem;
   letter-spacing: var(--spacing);
   text-transform: capitalize;
-  
+
 }
 .alert-danger {
   color: #721c24;
@@ -261,6 +262,7 @@ Grocery List
   color: var(--clr-grey-5);
 }
 .title {
+  width: 140px;
   margin-bottom: 0;
   color: var(--clr-grey-1);
   letter-spacing: 2px;
@@ -307,6 +309,8 @@ Grocery List
   color: var(--clr-red-dark);
 }
 .header {
+  text-transform: uppercase;
+  width: 140px;
   display: inline-block;
-  margin: 0 7% ;
+  margin: 5px ;
 }
